@@ -1,0 +1,14 @@
+{
+  "name": "ethers",
+  "version": "1.0.0",
+  "description": "",
+  "main": "contract_calldata.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "ethers": "^6.3.0"
+  }
+}
